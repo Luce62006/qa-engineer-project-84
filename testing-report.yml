@@ -8,21 +8,27 @@
   status: fail
   
 - summary: |
-    
-  status: pass
+  Проверка авторизации пользователя с существующими логином и паролем.
+  status: fail
 
 - summary: |
-    
-  status: pass
+  Проверка входа пользователя с несуществующими логином и паролем.
+  status: fail
 
 - summary: |
-    
-  status: pass
+  Возможность оплаты заказа. 
+  status: fail
 
 - summary: |
-    
-  status: pass
+  Подтверждение оплаты заказа.  
+  status: fail
 
 - summary: |
+  
+  status: fail
+
     
-  status: pass
+   
+   
+    
+    
