@@ -4,8 +4,8 @@
   status: pass
 
 - summary: |
-    
-  status: pass
+  Проверка редиректа на страницу регистрации при оформлении заказа.  
+  status: fail
   
 - summary: |
     
