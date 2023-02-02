@@ -1,8 +1,28 @@
 ---
 - summary: |
-    Краткое описание тест кейса. Пример: Проверка входа пользователя с существующими логином и паролем
-  status: fail
+   Проверка добавления товара в корзину.
+  status: pass
 
 - summary: |
-    Краткое описание тест кейса. Пример: Проверка входа пользователя с существующими логином и паролем
+    
+  status: pass
+  
+- summary: |
+    
+  status: pass
+
+- summary: |
+    
+  status: pass
+
+- summary: |
+    
+  status: pass
+
+- summary: |
+    
+  status: pass
+
+- summary: |
+    
   status: pass
