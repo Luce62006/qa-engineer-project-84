@@ -68,7 +68,7 @@
     Проверка на совместимость с последней версией браузера Chrome.
   requirement: |
     Сайт работает в браузере Chrome Version 109.0.5414.119 (Build ufficiale) (x86_64).
-    prerequisites: |
+  prerequisites: |
      Сайт открыт в браузере Chrome.
   test-data: |
     []
