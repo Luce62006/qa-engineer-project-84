@@ -54,11 +54,13 @@
 - summary: |
     Проверка мобильной версии сайта на iPhone 12 Pro
   requirement: |
-    Сайт работает на iPhone 12 Pro
+    Сайт работает на iPhone 12 Pro.
+  prerequisites: |
+     Сайт открыт на iPhone 12 Pro.
   test-data: |
      []
   steps: 
-    - Открываем сайт на iPhone 12 Pro
+    - Открываем сайт на iPhone 12 Pro.
   expected-result: |
     Сайт работает на iPhone 12 Pro.
     
@@ -66,6 +68,8 @@
     Проверка на совместимость с последней версией браузера Chrome.
   requirement: |
     Сайт работает в браузере Chrome Version 109.0.5414.119 (Build ufficiale) (x86_64).
+    prerequisites: |
+     Сайт открыт в браузере Chrome.
   test-data: |
     []
   steps: 
